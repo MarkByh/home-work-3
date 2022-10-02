@@ -6,8 +6,6 @@
 body {
     color: var(--primary-text-color);
     font-family: 'Roboto', 'Poppins' , sans-serif ;
-    
-
 }
 p, h1, h2, h3, h4, h5, h6{
     margin: 0;
@@ -240,8 +238,6 @@ margin-bottom: 50px;
     gap: 8px;
     margin-bottom: 50px;
 }
-
-
 .navigation{
 font-style: normal;
 font-family: inherit;
@@ -257,10 +253,7 @@ padding: 6px 22px;
 }
 .first-child{
     padding: 6px 25px; 
-}
-
-    
-
+}   
 .navigation:hover{
     background: var(--accent-color);
     color: #FFFFFF;
@@ -301,11 +294,6 @@ line-height: 1.8;
 color: var(--text-color);
 
 }
-
-
-
-
-
 .footer{
     padding-top: 60px;
     padding-bottom: 60px;
